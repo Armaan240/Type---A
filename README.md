@@ -35,5 +35,5 @@ https://a360.co/4eYcRzC
 | 2 | Custom PCB | 3X6 layout, mouse bites 3mm |$15|Jlc PCB|
 | 2 | Custom case (3D printed) | minimal integrated mount, 4mm walls, fillets |-|3D printed|
 
-## TOTAL ~ $50 
+## TOTAL ~ $30 
 (i didnt included the cost of PCB , because i will handwiring it , if needed i can afford it :P )
