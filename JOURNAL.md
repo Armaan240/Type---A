@@ -9,9 +9,9 @@
 | Total Time Till date| 11 Hours|
 | Project Type | A custom split keeb !! |
 
-# 2 JULY 2026
+# 2 JULY 2026 2:30 pm - 5:30 pm
 
-## Keys Matrix
+## Keys Matrix 
 ok so yah after lot of procastination i finaly started to make a keeb i so now it was time to decide to make which type a normal , or a split umm spilt keeb is the option for which i went cuz i feel using a spilt keeb could help make my posture correct , umm i love rgb leds so i had decided to to make it a backlit using SK6812 mini - E , these leds are pretty easy and doable with handsoldering , and sets perfect under keys for proper backlit effect , i want it make it compact and sleek so using a whole big pico for 3X6 and two extra keys wouldnt be feasible , so i decided to go with seed studio RP2040 and code with KMK , it have 11 pins which are sufficient for my thingi , 10 pins for keys and one pin for DIN , so yah i started making the schematic i would be design it in hirearchy so that it would be easy to handle (not too easy tbh !!) 
 so i created left and right sheets under one root sheet AMUS idk i why i kep the name AMUS may be cuz i am amu :P , anyways i started with lfet hand idk why i could start with right but i started with left , so yah so i made a basic 3X6 martx cuz i love maths :D , and then extended the matrix to 4X6 for two keys and then added diodes to bottom for avoiding ghosting ! , and labeled the rows and coulumns 
 
